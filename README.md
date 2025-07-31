@@ -1,5 +1,4 @@
-# Kairos Timer
-[Track Your Time and Worth with Kairos Timer](https://kairos-tiner.vercel.app)
+# Kairos Timer : Track Your Time and Worth [(link)](https://kairos-tiner.vercel.app)
 A minimalist time tracking application that helps you understand the value of your time by calculating how much money you're earning or losing based with time.
 
 ## Features
