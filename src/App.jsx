@@ -159,7 +159,7 @@ export default function App() {
     <div className="min-h-screen bg-milky flex flex-col items-center justify-center p-4 font-mono">
       {showSetup ? (
         <div className="w-full max-w-md bg-white rounded-lg shadow-sm p-8 border border-light-brown-200">
-          <h1 className="text-3xl font-bold text-center mb-8 text-light-brown-500">Tempus</h1>
+          <h1 className="text-3xl font-bold text-center mb-8 text-light-brown-500">Kairos Timer</h1>
           <form onSubmit={handleSubmit} className="space-y-6">
             <div>
               <label className="block text-sm font-medium text-light-brown-500 mb-2">
@@ -238,7 +238,7 @@ export default function App() {
             >
               Reset
             </button>
-            <h1 className="text-2xl font-bold text-light-brown-500">Tempus</h1>
+            <h1 className="text-2xl font-bold text-light-brown-500">Kairos Timer</h1>
             <button
               onClick={handleRestart}
               className="text-light-brown-400 hover:text-light-brown-500 transition-colors"
